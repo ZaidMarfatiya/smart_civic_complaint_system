@@ -240,8 +240,3 @@ curl -X POST "http://localhost:8080/api/v1/analytics/predict" \
 ```
 
 ---
-
-## API Documentation
-
-- Swagger UI: `http://localhost:8080/docs`
-- ReDoc: `http://localhost:8080/redoc`
